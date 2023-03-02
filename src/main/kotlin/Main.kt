@@ -5,7 +5,6 @@ val female= Human("Grace",15,55.5)
     println()
 
     println(female.weight)
-    println()
 
     female.speak("I love coding")
     println()
